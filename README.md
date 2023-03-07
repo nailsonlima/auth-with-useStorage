@@ -4,6 +4,13 @@ Um simples sistema de autenticação utilizando localStorage📁<br/>
 <img width='70%' src="./assets/e.png"/>
 <img width='70%' src="./assets/c.png"/>
 
+
+## 🛠️ Construído com:
+
+* [ReactJS](https://pt-br.reactjs.org/) - O framework web usado
+* [Styled components](https://styled-components.com/) - Biblioteca de estilização personalizada
+
+
 ## ✒️ Autores
 
 * **Nailson** - [desenvolvedor](https://github.com/nailsonlima)
@@ -14,4 +21,4 @@ Um simples sistema de autenticação utilizando localStorage📁<br/>
 * Espero ter sido útil!❤
 
 ---
-Feito com ❤️ por [Naison Lima](https://gist.github.com/nailsonlima) 😊
+Feito com ❤️ por [Nailson Lima](https://gist.github.com/nailsonlima) 😊
